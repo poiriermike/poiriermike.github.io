@@ -38,7 +38,7 @@ Adding more bad guys can be a good way to make your encounters more interesting 
 Obviously this is a bit of an exaggeration, but the rule of ninjas does apply. If you're an action hero and you are fighting one ninja. Expect him to be a badass and something to challenge or even beat the hero. If your hero is fighting a league of ninjas, then expect him to mow through them like a lawnmower.
 
 
-### Homogeneous Groups Bad Guys Are Boring
+### Homogeneous Groups of Bad Guys Are Boring
 
 There is no reason why you can't vary the bad guys in an encounter. Mix in a bunch of mooks with a big beefcake. The mooks will act as fodder while the big one gets in position to deal damage to an unsuspecting squishie.
 
